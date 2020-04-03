@@ -81,7 +81,7 @@
 
 	         <hr />               
 
-	         <p>Each image below represents a different stream perspective. Click the one you'd like to watch and enjoy the show!
+	         <p>Each image below represents a different stream perspective. Click the one you wouldd like to watch, and enjoy the show!
 	         </p>
 
 	      </div>
@@ -235,7 +235,7 @@
 
 		      <div class="description-box">
 			      <h4>PraetorDaemon's Perspective</h4>
-			      <p>PraetorDaemonhas been to the mountaintop a number of times. This time however, the stakes are much higher. In the name of charity, can PraetorDaemon successfully sherpa his friends to the mountaintop?</p>
+			      <p>PraetorDaemon has been to the mountaintop a number of times. This time however, the stakes are much higher. In the name of charity, can PraetorDaemon successfully sherpa his friends to the mountaintop?</p>
 		      </div>
 
             <div class="link-box">
@@ -300,7 +300,7 @@
 	            <h3>What is Covid-19?</h3>
 
 	            <div class="service-content">	                  
-		            <p>COVID-19, or COronaVIrus Disease 2019, is a respiratory illness that spreads person-to-person, and possesses virulence comparable to influenza. Symptoms include fever, cough, shortness of breath, et cetera. The best methods for avoiding infection include Social Distancing and frequent hand-washing. For more information, besure to read the <a href="https://www.cdc.gov/coronavirus/2019-ncov/downloads/2019-ncov-factsheet.pdf" target="_blank">CDC Covid-19 Fact Sheet</a>
+		            <p>COVID-19, or COrona VIrus Disease 2019, is a respiratory illness that spreads person-to-person, and possesses virulence comparable to influenza. Symptoms include fever, cough, shortness of breath, et cetera. The best methods for avoiding infection include Social Distancing and frequent hand-washing. For more information, besure to read the <a href="https://www.cdc.gov/coronavirus/2019-ncov/downloads/2019-ncov-factsheet.pdf" target="_blank">CDC Covid-19 Fact Sheet.</a>
 	         		</p> 
 	         	</div>  
 
@@ -311,7 +311,7 @@
 	            <h3>Who We Are.</h3>                  
 
 	            <div class="service-content">	                  
-		            <p>We are a rag-tag bunch of gamers who generally spend our time online committing genocide against various alien species. We've taken a break from our regularly scheduled murder to tackle a far greater challenge... Climbing a mountain in the name of charity.
+		            <p>We are a rag-tag bunch of gamers who generally spend our time online committing genocide against various alien species. We've taken a break from our regularly scheduled murder to tackle a far greater challenge... climbing a mountain in the name of charity.
 	         		</p> 
 	            </div>	              
 
