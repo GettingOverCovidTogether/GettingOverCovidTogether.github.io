@@ -185,7 +185,7 @@
 		      </div>
 
             <div class="link-box group">
-            	<a href="http://www.twitch.tv/ebbmike" target="_blank">Details</a>
+            	<a href="https://streamlabs.com/ebbmike1" target="_blank">Donate</a>
             	<a href="#" class="popup-modal-dismiss">Close</a>         
             </div>
 
@@ -203,7 +203,7 @@
 		      </div>
 
             <div class="link-box">            	
-               <a href="#">Details</a>
+               <a href="https://streamlabs.com/ebbmike1">Donate</a>
 		         <a href="#" class="popup-modal-dismiss">Close</a>
             </div>
 
@@ -212,7 +212,7 @@
          <div id="modal-03" class="popup-modal mfp-hide">
 
 		      <div class="media">
-	      		<img src="images/portfolio/modals/m-beetle.jpg" alt="" />
+	      		<iframe width="550" height="300" src="https://www.youtube.com/embed/VC1tEt9D0yo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	      	</div>
 
 		      <div class="description-box">
@@ -221,7 +221,7 @@
 		      </div>
 
             <div class="link-box">
-               <a href="#">Details</a>
+               <a href="https://streamlabs.com/ebbmike1">Donate</a>
 		         <a href="#" class="popup-modal-dismiss">Close</a>
             </div>
 
@@ -230,7 +230,7 @@
 			<div id="modal-04" class="popup-modal mfp-hide">
 
 		      <div class="media">
-	      		<img src="images/portfolio/modals/m-banjo-player.jpg" alt="" />
+	      		<iframe width="550" height="300" src="https://www.youtube.com/embed/WTJNvRd6gqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	      	</div>
 
 		      <div class="description-box">
@@ -239,7 +239,7 @@
 		      </div>
 
             <div class="link-box">
-               <a href="#">Details</a>
+               <a href="https://streamlabs.com/ebbmike1">Donate</a>
 		         <a href="#" class="popup-modal-dismiss">Close</a>
             </div>
 
@@ -260,7 +260,7 @@
 		      </div>
 
             <div class="link-box">
-               <a href="#">Details</a>
+               <a href="https://streamlabs.com/ebbmike1">Donate</a>
 		         <a href="#" class="popup-modal-dismiss">Close</a>
             </div>		      
 
