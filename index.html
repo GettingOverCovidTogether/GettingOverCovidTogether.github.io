@@ -230,7 +230,7 @@
 			<div id="modal-04" class="popup-modal mfp-hide">
 
 		      <div class="media">
-	      		<iframe width="550" height="300" src="https://www.youtube.com/embed/WTJNvRd6gqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	      		<img src="images/praetordaemon.jpg">
 	      	</div>
 
 		      <div class="description-box">
